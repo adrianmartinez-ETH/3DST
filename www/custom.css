@@ -1,0 +1,20 @@
+.main-header .logo {
+  font-family: Arial;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 16px;
+}
+ /* logo */
+.skin-blue .main-header .logo {
+                              background-color: #1F407A;
+                              }
+
+/* logo when hovered */
+.skin-blue .main-header .logo:hover {
+                              background-color: #1F407A;
+                              }
+                              
+/* navbar (rest of the header) */
+.skin-blue .main-header .navbar {
+                              background-color: #1F407A;
+                              }     
